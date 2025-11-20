@@ -1,16 +1,16 @@
 ## Introduction
 
-This repository, **kivrosolutions\_tasks**,submitted for the front-end development assignments given by Kivro Solutions. The projects demonstrate proficiency in core web technologies, including **HTML5**, **CSS3**, **Bootstrap 5.3**, and **Vanilla JavaScript (ES6)**, focusing on creating responsive, dynamic, and intuitive user interfaces.
+This repository, **kivrosolutions\_tasks**,submitted for the front end development assignments given by Kivro Solutions. The projects demonstrate proficiency in core web technologies, including **HTML5**, **CSS3**, **Bootstrap 5.3**, and **Vanilla JavaScript (ES6)**, focusing on creating responsive, dynamic, and intuitive user interfaces.
 
-The tasks are designed to showcase skills in responsive web design, component-based development, and practical application logic.
+The tasks are designed to showcase skills in responsive web design, component based development, and practical application logic.
 
 -----
 
 ## Task Descriptions
 
-### 1\. Task 1 & 2: Professional Front-End Portfolio
+### 1\. Task 1 & 2: Professional Front End Portfolio
 
-This project is a clean, modern, and fully responsive **Front-End Developer Portfolio** designed to showcase foundational skills and project examples. It was deployed as a comprehensive single application, combining two related objectives (likely structure/design and feature implementation) into one cohesive experience.
+This project is a clean, modern, and fully responsive **Front End Developer Portfolio** designed to showcase foundational skills and project examples. It was deployed as a comprehensive single application, combining two related objectives (likely structure/design and feature implementation) into one cohesive experience.
 
 | Detail | Value |
 | :--- | :--- |
@@ -46,4 +46,4 @@ If you wish to run these projects locally, follow these steps:
     ```bash
     cd kivrosolutions_tasks
     ```
-3.  **Explore the Tasks:** Each task's code is located in its respective folder (e.g., `task-1-2/`, `task-3/`). Open the `index.html` file of the desired task in your web browser to view the project.
+3.  **Explore the Tasks:** Each task code is located in its respective folder (e.g., `task-1/`, `task-2/`, `task-3/`). Open the `index.html` file of the desired task in your web browser to view the project.
