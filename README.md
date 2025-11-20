@@ -23,7 +23,7 @@ This project is a clean, modern, and fully responsive **Front-End Developer Port
 
 ### 2\. Task 3: Interactive To-Do List Application
 
-This project is a functional, standalone **To-Do List Manager** application. It serves as a practical demonstration of JavaScript's ability to handle application state, user input, and DOM manipulation for dynamic content updates.
+This project is a functional, standalone **To-Do List Manager** application. It serves as a practical demonstration of JavaScript ability to handle application state, user input, and DOM manipulation for dynamic content updates.
 
 | Detail | Value |
 | :--- | :--- |
